@@ -10,6 +10,7 @@ else if (secondNo > firstNo){
 }
 else {
     console.log("Both numbers are equal")
+
 }
 
 // Question 02
@@ -118,3 +119,4 @@ for (let i=1;i<=5;i++){
     }
 
 }
+// Assignment Completed
