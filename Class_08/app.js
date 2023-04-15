@@ -28,3 +28,4 @@ console.log(date1.getTime(),doomzDay.getTime())
 let difference = doomzDay.getTime()-date1.getTime()
 console.log(difference)
 console.log((difference/(1000*60*60*24*365.25)).toFixed(1))
+
